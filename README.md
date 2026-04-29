@@ -60,6 +60,10 @@
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [We&#39;re Switching to Mac. Here&#39;s Why.](https://jeremydawes.com/blog/switching-to-mac/)
+- [Building MCP Servers: A Practical Guide](https://jeremydawes.com/blog/building-mcp-servers/)
+- [Deploying Voice Agents in Production](https://jeremydawes.com/blog/voice-agents-production/)
+- [The Full Flare Stack: Building on Cloudflare](https://jeremydawes.com/blog/cloudflare-full-stack/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect
